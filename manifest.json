@@ -1,0 +1,17 @@
+{
+  "name": "محطة المياه",
+  "short_name": "المياه",
+  "description": "تتبع مبيعات المياه",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0c4a6e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%230c4a6e' width='100' height='100' rx='20'/><text x='50' y='68' text-anchor='middle' font-size='55'>💧</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
